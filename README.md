@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devansh Goyal</h1>
-<h3 align="center">Cybersecurity Researcher | Security Tool Developer | Independent Builder</h3>
+<h3 align="center">Cybersecurity | Researcher | Security Tool Developer | Independent Builder</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Devansh7006/Devansh7006/main/banner.png" width="100%" />
 </p>
