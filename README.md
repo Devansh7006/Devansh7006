@@ -5,69 +5,21 @@
 <h1 align="center">Hi 👋, I'm Devansh Goyal</h1>
 <h3 align="center">Cybersecurity Researcher | Security Tool Developer | Independent Builder</h3>
 
----
+# 💫 About Me:
+🔭 I’m currently working on<br>Hands-on cybersecurity projects focused on detection, analysis, and automation.<br><br>👯 I’m looking to collaborate on<br>Cybersecurity tools, browser extensions, and practical security projects.<br><br>🤝 I’m looking for help with<br>Improving threat detection logic and validating security datasets.<br><br>🌱 I’m currently learning<br>Penetration testing, SOC tools (SIEM/Wazuh), and security-focused ML.<br><br>💬 Ask me about<br>Email security, phishing detection, TryHackMe labs, Python security tools.<br><br>⚡ Fun fact<br>I publish independent research and enjoy building systems from scratch.
 
-# 🛡 About Me
 
-🔭 Building real-world cybersecurity systems focused on threat detection, behavioral analysis, and automation.  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devansh-goyal-366619336)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devanshgoyal1402@gmail.com) 
 
-🧠 Designing logical, research-backed detection frameworks instead of surface-level filtering.  
-
-🌱 Currently advancing in penetration testing, SOC tooling (SIEM/Wazuh), and security-focused ML.  
-
-💬 Strong interest in email security, phishing detection, adversarial logic modeling, and practical security research.  
-
-⚡ I publish independent applied research and build systems from scratch.
-
----
-
-# 🚀 Featured Projects
-
-🔐 **MailSentinel**  
-Gmail extension using 400+ parameters for phishing detection and intelligent risk scoring.
-
-🌐 **VPN Behavior & Privacy Leak Analyzer**  
-Browser-based heuristic engine detecting proxy/VPN-like behavior using client-side signals.
-
-📊 **241-Parameter Email Scoring System**  
-Logical, research-aligned framework for structured phishing detection.
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=devansh7007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=devansh7007&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=devansh7007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=devansh7007&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 📄 Research
-
-📌 Published independent applied research on embedded system design and hardware integration (Zenodo DOI).  
-📌 Working on practical validation models for security logic and dataset integrity.
-
----
-
-# 💻 Core Tech Stack
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-
----
-
-# 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devansh-goyal-366619336)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devanshgoyal1402@gmail.com)
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Devansh7006&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Devansh7006&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh7006&theme=dark&hide_border=false&layout=compact)
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Devansh7006&icon=0&color=0" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
