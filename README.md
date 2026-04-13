@@ -26,8 +26,8 @@ Penetration testing, SOC tools (SIEM/Wazuh), and security-focused ML.
 💬 Ask me about  
 Email security, phishing detection, TryHackMe labs, Python security tools.
 
-⚡ Fun fact  
-I publish independent research and enjoy building systems from scratch.
+⚡ Fun fact 
+I turn ideas into working systems — from concept to deployment.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
