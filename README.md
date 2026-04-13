@@ -2,10 +2,12 @@
 <h3 align="center">Cybersecurity | Researcher | Security Tool Developer | Independent Builder</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Devansh7006/Devansh7006/main/banner.png" width="100%" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</p>
 
 # 💫 About Me:
 
@@ -27,14 +29,18 @@ Email security, phishing detection, TryHackMe labs, Python security tools.
 ⚡ Fun fact  
 I publish independent research and enjoy building systems from scratch.
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</p>
 
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devansh-goyal-366619336)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devanshgoyal1402@gmail.com)
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</p>
 
 # 💻 Tech Stack:
 
@@ -48,7 +54,9 @@ I publish independent research and enjoy building systems from scratch.
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</p>
 
 ## 📊 GitHub Stats
 
@@ -56,7 +64,9 @@ I publish independent research and enjoy building systems from scratch.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devansh7006&" alt="devansh7006" />
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</p>
 
 ## 🤝 Connect
 
