@@ -18,4 +18,24 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devansh7006&" alt="devansh7006" /></p>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devansh7006&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devansh7006&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/devansh-goyal-366619336">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/devansh7006">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:00D9FF&height=110&section=footer"/>
