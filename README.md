@@ -34,8 +34,7 @@ I turn ideas into working systems — from concept to deployment.
 </p>
 
 ## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devansh-goyal-366619336)  
+ 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devanshgoyal1402@gmail.com)
 
 <p align="center">
