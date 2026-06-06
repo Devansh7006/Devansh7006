@@ -70,10 +70,6 @@ I turn ideas into working systems — from concept to deployment.
 
 ## 🤝 Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/devansh-goyal-366619336">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
   <a href="https://github.com/devansh7006">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
