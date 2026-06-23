@@ -60,7 +60,7 @@ I turn ideas into working systems — from concept to deployment.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devansh7006&" alt="devansh7006" />
+  <img src="https://streak-stats.demolab.com?user=devansh7006" alt="GitHub Streak" />
 </p>
 
 <p align="center">
