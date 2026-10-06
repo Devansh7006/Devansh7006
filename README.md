@@ -1,23 +1,31 @@
 <div align="center">
 
-<!-- ========================================== -->
-<!-- HERO BANNER (Aegis Dark Glassmorphism)     -->
-<!-- ========================================== -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:08090B,30:101216,70:12161E,100:08090B&height=200&section=header&text=DEVANSH%20GOYAL&fontSize=42&fontColor=FF9F43&animation=fadeIn&fontAlignY=42&desc=%E2%9A%A1%20Cybersecurity%20Researcher%20%C2%B7%20Security%20Tool%20Developer%20%C2%B7%20Algorithmic%20Systems%20Builder&descAlignY=66&descSize=15&descColor=F5F5F5" width="100%" alt="Devansh Goyal Banner" />
+<!-- ======================================================== -->
+<!-- ANIMATED GLASSMORPHISM WAVING HEADER (Aegis Dark Palette) -->
+<!-- ======================================================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08090B,35:101216,75:181C26,100:FF9F43&height=220&section=header&text=DEVANSH%20GOYAL&fontSize=42&fontColor=FF9F43&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Researcher%20%C2%B7%20Security%20Tool%20Developer%20%C2%B7%20Independent%20Builder&descAlignY=58&descSize=15&descColor=F5F5F5" width="100%" alt="Devansh Goyal Animated Header" />
 
-<br/>
+<!-- ======================================================== -->
+<!-- ANIMATED TERMINAL TYPING SVG                             -->
+<!-- ======================================================== -->
+<a href="https://github.com/Devansh7006">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2400&pause=1100&color=FF9F43&background=08090B00&center=true&vCenter=true&width=750&height=55&lines=%3E_Building+Threat+Detection+%26+Security+Tooling;%3E_SIEM+%2F+Wazuh+Pipelines+%26+Automated+Telemetry;%3E_Penetration+Testing+%26+Vulnerability+Analysis;%3E_Turning+Security+Concepts+into+Working+Systems" alt="Typing SVG" />
+</a>
 
-<!-- ========================================== -->
-<!-- LIVE STATUS BADGES / TELEMETRY             -->
-<!-- ========================================== -->
+<!-- ======================================================== -->
+<!-- TELEMETRY STATUS CAPSULES (Apple VisionOS Glass Style)    -->
+<!-- ======================================================== -->
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-OPERATIONAL%20%E2%97%8F%20ONLINE-08090B?style=for-the-badge&logo=statuspage&logoColor=35D39A&labelColor=101216&color=35D39A" alt="Status Online" />
   &nbsp;
-  <img src="https://img.shields.io/badge/TERMINAL-AEGISTRADE%20v2.0-08090B?style=for-the-badge&logo=databricks&logoColor=FF9F43&labelColor=101216&color=FF9F43" alt="AegisTrade Terminal" />
+  <img src="https://img.shields.io/badge/SECURITY-RESEARCH%20%26%20TOOLING-08090B?style=for-the-badge&logo=kalilinux&logoColor=FF9F43&labelColor=101216&color=FF9F43" alt="Security Research" />
   &nbsp;
-  <img src="https://img.shields.io/badge/FOCUS-THREAT%20INTEL%20%26%20SYSTEMS-08090B?style=for-the-badge&logo=kalilinux&logoColor=00F5D4&labelColor=101216&color=00F5D4" alt="Focus" />
+  <img src="https://img.shields.io/badge/TELEMETRY-SIEM%20%26%20AUTOMATION-08090B?style=for-the-badge&logo=wazuh&logoColor=00F5D4&labelColor=101216&color=00F5D4" alt="SIEM Automation" />
 </p>
 
+<!-- ======================================================== -->
+<!-- QUICK CONNECT PILLS                                      -->
+<!-- ======================================================== -->
 <p align="center">
   <a href="mailto:devanshgoyal1402@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-devanshgoyal1402%40gmail.com-08090B?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=101216" alt="Gmail" />
@@ -27,9 +35,7 @@
     <img src="https://img.shields.io/badge/GITHUB-Devansh7006-08090B?style=for-the-badge&logo=github&logoColor=F5F5F5&labelColor=101216" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="https://github.com/Devansh7006/AegisTrade">
-    <img src="https://img.shields.io/badge/PORTFOLIO-AEGIS%20COMMAND-08090B?style=for-the-badge&logo=terminal&logoColor=FF9F43&labelColor=101216" alt="Aegis Command" />
-  </a>
+  <img src="https://img.shields.io/badge/PGP%20VERIFIED-SECURE%20IDENTITY-08090B?style=for-the-badge&logo=gnupg&logoColor=FF9F43&labelColor=101216" alt="PGP Verified" />
 </p>
 
 </div>
@@ -38,31 +44,35 @@
 
 ### 🛡️ Operational Profile & Core Directives
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=800&color=35D39A&center=false&vCenter=true&width=550&height=32&lines=%24+sysctl+-a+%7C+grep+security.telemetry+%3D%3D+ONLINE;%24+cat+%2Fetc%2Fprofile+%7C+grep+focus+%3D+DEFENSIVE_ENGINEERING" alt="Terminal Status" />
+</div>
+
 ```json
 {
   "operator": "Devansh Goyal",
-  "archetype": "Cybersecurity Researcher // Security Tool Developer // Independent Systems Builder",
+  "archetype": "Cybersecurity Researcher // Security Tool Developer // Systems Builder",
   "specializations": [
     "Threat Detection Engineering & SIEM / Wazuh Telemetry",
     "Offensive Security Research, Phishing Analysis & Reverse Engineering",
-    "High-Performance Algorithmic Trading Systems (AegisTrade)",
-    "Security Automation, Browser Instrumentation & Defense Tooling"
+    "Security Automation, Browser Instrumentation & Defense Tooling",
+    "Low-Latency Systems Engineering & Robust Backend Architectures"
   ],
-  "mission": "Turning high-complexity security & quantitative concepts into battle-tested, zero-overdraft production systems."
+  "mission": "Turning high-complexity security and computing concepts into battle-tested, high-reliability production systems."
 }
 ```
 
 ---
 
-### ⚡ Mission Telemetry & Focus Planes
+### ⚡ Research Focus & Engineering Telemetry
 
-| Vector | Focus / Active Engagement |
+| Vector | Directives / Focus Area |
 | :--- | :--- |
 | 🔭 **Active Engineering** | Hands-on cybersecurity tools focused on automated detection, behavioral telemetry, and SIEM pipeline orchestration. |
-| ⚡ **Algorithmic Terminal** | Designing **AegisTrade** — an institutional-grade personal trading terminal with glassmorphism UI, 19 quant strategies, and a 6-document audit engine. |
-| 🤝 **Collaborations** | Defensive security tools, MCP servers (Hashcat/Security tools), browser extensions, and adversarial simulation suites. |
+| 🛡️ **Threat Intelligence** | Designing autonomous threat detection logic, log parsing engines, and memory forensic instrumentation. |
+| 🤝 **Collaborations** | Defensive security tools, MCP servers, browser extensions, and adversarial simulation suites. |
 | 🌱 **Continuous Research** | Advanced penetration testing, SIEM / Wazuh detection pipelines, eBPF telemetry, and security-focused Machine Learning. |
-| 💬 **Technical Dialectic** | Email security, phishing mitigation architectures, TryHackMe labs, custom Python security tooling, and low-latency systems. |
+| 💬 **Technical Dialectic** | Email security, phishing mitigation architectures, TryHackMe labs, custom Python security tooling, and low-level systems. |
 
 ---
 
@@ -79,7 +89,7 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
-#### ⚡ Core Engineering & Quantitative Backends
+#### ⚡ Core Engineering & Scalable Backends
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
@@ -121,43 +131,15 @@
 
 ---
 
-### 🚀 Featured Deployments & Flagship Systems
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🛡️ AegisTrade</h3>
-      <p align="center"><b>Personal Trading & Portfolio Intelligence Terminal</b></p>
-      <p>Cinematic Apple VisionOS dark glassmorphism dashboard built for institutional equity teardown. Features 19 multi-factor models (6 Big Trader playbooks + 13 Quant Momentum filters), an automated 6-document audit engine, and dynamic wallet capital optimization.</p>
-      <p align="center">
-        <code>Python</code> &bull; <code>FastAPI</code> &bull; <code>Glassmorphism</code> &bull; <code>Telegram Bot</code>
-      </p>
-      <p align="center">
-        <a href="https://github.com/Devansh7006/AegisTrade"><b>View Repository &rarr;</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🔓 hashcat-mcp</h3>
-      <p align="center"><b>MCP Server for Hashcat Password Recovery Tool</b></p>
-      <p>Model Context Protocol (MCP) server bridge enabling autonomous agents and LLMs to interface with Hashcat for advance password recovery, hash analysis, and credential security benchmarking.</p>
-      <p align="center">
-        <code>Python</code> &bull; <code>MCP Protocol</code> &bull; <code>Hashcat</code> &bull; <code>Security Tooling</code>
-      </p>
-      <p align="center">
-        <a href="https://github.com/Devansh7006/hashcat-mcp"><b>View Repository &rarr;</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
+<!-- ======================================================== -->
+<!-- ANIMATED GLASS FOOTER WAVE                               -->
+<!-- ======================================================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9F43,50:FF6B00,100:08090B&height=100&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9F43,45:FF6B00,85:12161E,100:08090B&height=120&section=footer" width="100%" alt="Animated Footer Wave" />
 
 <p align="center">
-  <sub>🔒 <b>SECURED SYSTEM</b> &bull; Built with precision by <a href="https://github.com/Devansh7006">Devansh Goyal</a> &bull; Powered by Aegis Architecture</sub>
+  <sub>🔒 <b>SECURED SYSTEM</b> &bull; Built with precision by <a href="https://github.com/Devansh7006">Devansh Goyal</a> &bull; All Private Intellectual Property Guarded</sub>
 </p>
 
 </div>
