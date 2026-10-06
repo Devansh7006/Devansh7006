@@ -106,8 +106,4 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9F43,45:FF6B00,85:12161E,100:08090B&height=100&section=footer" width="100%" alt="Footer Wave" />
 
-<p align="center">
-  <sub>Devansh Goyal &bull; Cybersecurity & Systems</sub>
-</p>
-
 </div>
