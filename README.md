@@ -109,15 +109,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Devansh7006&repo=Dikoryx&theme=transparent&title_color=58A6FF&text_color=A9ADB5&icon_color=3FB950&border_color=30363D&bg_color=161B22&border_radius=10" width="49%" alt="Dikoryx" />
   </a>
 </div>
-<br>
-<div align="center">
-  <a href="https://github.com/Devansh7006/Cyber_Dost">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Devansh7006&repo=Cyber_Dost&theme=transparent&title_color=58A6FF&text_color=A9ADB5&icon_color=3FB950&border_color=30363D&bg_color=161B22&border_radius=10" width="49%" alt="Cyber_Dost" />
-  </a>
-  <a href="https://github.com/Devansh7006/silent-sync">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Devansh7006&repo=silent-sync&theme=transparent&title_color=58A6FF&text_color=A9ADB5&icon_color=3FB950&border_color=30363D&bg_color=161B22&border_radius=10" width="49%" alt="silent-sync" />
-  </a>
-</div>
 
 <br>
 
