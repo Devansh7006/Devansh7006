@@ -103,10 +103,10 @@
 
 <div align="center">
   <a href="https://github.com/Devansh7006/ToolKit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Devansh7006&repo=ToolKit&theme=transparent&title_color=58A6FF&text_color=A9ADB5&icon_color=3FB950&border_color=30363D&bg_color=161B22&border_radius=10" width="49%" alt="ToolKit" />
+    <img src="./assets/toolkit-card.svg" width="49%" alt="ToolKit" />
   </a>
   <a href="https://github.com/Devansh7006/Dikoryx">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Devansh7006&repo=Dikoryx&theme=transparent&title_color=58A6FF&text_color=A9ADB5&icon_color=3FB950&border_color=30363D&bg_color=161B22&border_radius=10" width="49%" alt="Dikoryx" />
+    <img src="./assets/dikoryx-card.svg" width="49%" alt="Dikoryx" />
   </a>
 </div>
 
